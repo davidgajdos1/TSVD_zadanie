@@ -1,0 +1,4 @@
+numpy>=1.12.0
+pandas
+pyspark
+findspark
